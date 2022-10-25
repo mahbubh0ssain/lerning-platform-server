@@ -1,6 +1,6 @@
 [
   {
-    "course-id": "01",
+    "id": "01",
     "title": "JavaScript",
     "author": {
       "name": "Jimmy Dane",
@@ -11,7 +11,7 @@
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
-    "course-id": "02",
+    "id": "02",
     "title": "Express JS",
     "author": {
       "name": "Jimmy Dane",
@@ -22,7 +22,7 @@
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
-    "course-id": "03",
+    "id": "03",
     "title": "MongoDB",
     "author": {
       "name": "Jimmy Dane",
@@ -33,7 +33,7 @@
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
-    "course-id": "04",
+    "id": "04",
     "title": "React JS",
     "author": {
       "name": "Jimmy Dane",
@@ -44,7 +44,7 @@
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
-    "course-id": "05",
+    "id": "05",
     "title": "Node JS",
     "author": {
       "name": "Jimmy Dane",
@@ -55,7 +55,7 @@
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
-    "course-id": "06",
+    "id": "06",
     "title": "Python",
     "author": {
       "name": "Jimmy Dane",
