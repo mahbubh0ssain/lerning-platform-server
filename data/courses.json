@@ -3,44 +3,44 @@
     "id": "01",
     "title": "JavaScript",
     "author": {
-      "name": "Jimmy Dane",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "name": "David Max",
+      "img": "https://i.ibb.co/9TdV0pk/photo-1570295999919-56ceb5ecca61.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://i.ibb.co/xLG5Cvx/2048px-Unofficial-Java-Script-logo-2-svg.png",
+    "image_url": "https://i.ibb.co/Trw5d2T/3cfde400-5298-11ea-9f39-aab161ef8f69.png",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
     "id": "02",
     "title": "Express JS",
     "author": {
-      "name": "Jimmy Dane",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "name": "John Doe",
+      "img": "https://i.ibb.co/WGf94sJ/images-q-tbn-ANd9-Gc-TCNCbxt-Ln5lx7v6h-EAs-Fk-WLPJJ7m-Gvfsj-Almvi-DI3sxn73-Ozvx-Jy-Npv-Xb-Fyf-Xhgga0.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://i.ibb.co/LSGCyVp/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png",
+    "image_url": "https://i.ibb.co/ggcH72g/express-logo.png",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
     "id": "03",
     "title": "MongoDB",
     "author": {
-      "name": "Jimmy Dane",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "name": "James Nash",
+      "img": "https://i.ibb.co/vBXpfp5/csm-risiko-kiess-interviewkachel-2ab943ed17.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://i.ibb.co/mXVHBPm/1-do-Ag1-f-MQKWFoub-6gw-Ui-Q.png",
+    "image_url": "https://i.ibb.co/jWT0mr9/ogo-svg.png",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
     "id": "04",
     "title": "React JS",
     "author": {
-      "name": "Jimmy Dane",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "name": "Miachael Bash",
+      "img": "https://i.ibb.co/x1nJ5Tk/csm-frank-sprenger-interviewkachel-4470dab1a7.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://i.ibb.co/R4kSJXV/1-6k-K9j74vy-Om-XYm1g-N6-ARh-Q.png",
+    "image_url": "https://i.ibb.co/0CXMsg3/react-logo.jpg",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
@@ -48,21 +48,21 @@
     "title": "Node JS",
     "author": {
       "name": "Jimmy Dane",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://media.istockphoto.com/photos/smiling-man-outdoors-in-the-city-picture-id1179420343?b=1&k=20&m=1179420343&s=612x612&w=0&h=c9Z3DyUg-YvgOQnL_ykTIgVTWXjF-GNo4FUQ7i5fyyk="
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://i.ibb.co/zmnJsMj/nodejs-logo.png",
+    "image_url": "https://i.ibb.co/3CqJG5K/1200px-Node-js-logo-svg.png",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   },
   {
     "id": "06",
     "title": "Python",
     "author": {
-      "name": "Jimmy Dane",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "name": "Peter Vowagon",
+      "img": "https://media.istockphoto.com/photos/smiling-african-american-man-wearing-glasses-picture-id1347495868?b=1&k=20&m=1347495868&s=170667a&w=0&h=gAtWWijrcN9eCaAAhn1-W3Eajh6QK0dxBcKYVKQwyEg="
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "thumbnail_url": "https://i.ibb.co/BTb0jHV/800px-Python-logo-notext-svg.png",
+    "image_url": "https://i.ibb.co/F5KQr4v/logopython.png",
     "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military,"
   }
 ]
